@@ -1,0 +1,19 @@
+{
+  "name": "redis-snowflake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zsea/redis-snowflake.git"
+  },
+  "keywords": [],
+  "author": "zsea@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.27.2"
+  }
+}
